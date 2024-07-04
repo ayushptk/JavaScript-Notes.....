@@ -65,6 +65,4 @@ let b = await cherry();
 // a.then((value) => {
 //   console.log(value);
 };
-    
-  
 main1();
