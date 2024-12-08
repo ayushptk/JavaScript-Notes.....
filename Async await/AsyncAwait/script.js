@@ -64,7 +64,5 @@ let a = await ayush(); //await is used to wait for the promise to be fulfilled
 let b = await cherry();
 // a.then((value) => {
 //   console.log(value);
-});
-    
-  }
+};
 main1();
